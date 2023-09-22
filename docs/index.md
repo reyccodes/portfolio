@@ -1,9 +1,11 @@
-# Welcome to My Website!
+# Hi! I'm Shreya Chaudhary
 
 !!! warning "This website is currently under development!"
     Expect for some major changes to occur within the new few hours and days!
 
-Hello! I'm an undergraduate studying Computer Science and Engineering at MIT. This website's very mucha work-in-progress, but here are some things to know about me!
+Hello! I'm an undergraduate studying Computer Science and Engineering at MIT. I'm currently exploring the vast awesomeness of computer science and engineering and trying to find what vibes with me best!
+
+This website's very much a work-in-progress, but here are some things to know about me!
 
 ???+ note "My Developer Environment"
 
@@ -24,4 +26,6 @@ Hello! I'm an undergraduate studying Computer Science and Engineering at MIT. Th
     - **Natural Language Processing**: I like [spaCy](https://spacy.io/)'s models a lot. I also have used [NLTK](https://www.nltk.org/) for more traditional NLP work.
 
     **Web Dev Stack**: I used to work on a ton of web development and now only occassionally help out with web dev projects. During web development, I used FastAPI for leverage a Python backend, and if Python wasn't necessary, I created a Node.js backend with either Express or from scratch. My frontend was either pure HTML/CSS, HTML/CSS with Bootstrap, React/React Native, or Flutter. (I've also dabbled in a handful of other frameworks.) For the database, I used MongoDB, Firebase, and TigerGraph.
+
+
 
