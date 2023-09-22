@@ -1,0 +1,12 @@
+site_name: Personal Website!
+theme:
+  name: material
+  icon:
+    admonition:
+      warning: material/alert
+  palette: 
+    scheme: slate
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
