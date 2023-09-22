@@ -43,9 +43,6 @@ There are a ton of things I'm interested in and I'm still exploring! Unfortunate
 
     ![birthday card comparison](bc_imgs.png)
  
-???+ note "Generating D&D Maps with a Quantum Computer"
-    For QuHacks 2023, my team and I were in the creativity track, and we developed a hybrid model to generate D&D maps using quantum procedural generation and an Ising model. We worked on generating textures based on adding noises to existing textures, generating the map, and ensuring the map is valid.
-   
 ???+ note "Using Quantum Procedural Generation on Squirrels"
     For our final project for introduction to quantum computing over IAP, my project partners and I used quantum procedural generation on squirrels. Check out this [blog](https://medium.com/mit-6-s089-intro-to-quantum-computing/quantum-image-manipulation-2c8e7ea6a64e) outlining what we did!
 
