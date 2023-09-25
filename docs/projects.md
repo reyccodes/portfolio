@@ -11,6 +11,12 @@ There are a ton of things I'm interested in and I'm still exploring! Unfortunate
 
     ![sample flutter app](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*7Tk8asdYeL6jHp7b8m8cPQ.png)
 
+???+ note "DevPost"
+    [https://devpost.com/GenericP3rson](https://devpost.com/GenericP3rson)
+
+    Several open-source full-stack applications in various areas of interest!
+
+
 ## Technical Projects
 
 ???+ note "A Suite of Differential Privacy Algorithms"
