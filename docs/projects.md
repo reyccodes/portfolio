@@ -28,6 +28,9 @@ There are a ton of things I'm interested in and I'm still exploring! Unfortunate
     Over the summer, I got to learn how to conduct orbit modelling and wrote a Python program to generate a script to feed into NASA's GMAT to simulate over 1,000 satellites in low-Earth orbit (LEO). This is simulating a Walker Constellation.
     
     ![1k+ satellites in GMAT](megaconstellation.png)
+ 
+???+ note "OrderBot"
+    For 6.421, I built a robot that could prepare foods from a human order given a list of random ingredients from a known set of ingredients. 
 
 ### Libraries
 
