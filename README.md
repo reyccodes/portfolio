@@ -1,3 +1,3 @@
 # Personal Website
 
-Built with mkdocs and deployed with GitHub. Using the material font.
+Built with mkdocs materials and deployed with GitHub. Using the material font.
