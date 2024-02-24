@@ -16,9 +16,8 @@ Overall, this class was pretty chill with labs usually taking me the afternoon t
 
 ### LISP Interpreter
 
-This was the capstone lab and quite fun. We were able to 
+This was the capstone lab and quite fun. We were able to build an interpreter for LISP in Python. It was cool to be able to apply what we were studying throughout the term—the inner workings of a programming language—then create a pretty advanced recursive strategy to implement it!
 
 ### N-D Mines
 
 A fun recursive lab which required implementing the mines game in n-d. 
-
