@@ -10,7 +10,7 @@
 - Introduction to Solid-State Chemistry
 
 ### IAP
-- MASLab
+- MASLab (worked on StaffBot + Simulation)
 - Weblab
 - Introduction to Quantum Computing
 
@@ -33,3 +33,13 @@
 
 ### IAP
 - Chinese I
+- MASLab (Actual Competition Year!)
+- UPOP TTW
+
+### Spring
+- Applied Cryptography
+- Advances in Computer Vision
+- Elements of Software Construction
+- Computer Systems Engineering
+- Macroeconomics
+- Medival Economics
