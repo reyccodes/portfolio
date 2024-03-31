@@ -37,8 +37,8 @@
 - UPOP TTW
 
 ### Spring
-- Applied Cryptography
-- Advances in Computer Vision
+- [Grad] Applied Cryptography
+- [Grad] Advances in Computer Vision
 - Elements of Software Construction
 - Computer Systems Engineering
 - Macroeconomics
