@@ -21,7 +21,7 @@ This website's very much a work-in-progress, but here are some things to know ab
 
     - **Data Visualization**: Data visualization is super important for presenting your work, and I've explored several different libraries. For R, I primarily use ggplot2. In Python, for simple plots, I use Matplotlib or Plotly; for dashboards, I use Plotly Dash or Streamlit. 
 
-    - **Graph Technology**: I've been working with graphs since mid-high school. I worked for TigerGraph for two years and used it for side projects. For graph machine learning, I primarily use Pytorch-Geometric and occassionally DGL. 
+    - **Graph Technology**: I've been working with graphs since high school. I worked for TigerGraph for two years and used it for side projects. For graph machine learning, I primarily use Pytorch-Geometric and occassionally DGL. 
 
     - **Natural Language Processing**: I like [spaCy](https://spacy.io/)'s models a lot. I also have used [NLTK](https://www.nltk.org/) for more traditional NLP work.
 
