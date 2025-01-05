@@ -3,19 +3,19 @@
 !!! warning "This website is currently under development!"
     Expect for some major changes to occur within the new few hours and days!
 
-Hello! I'm an undergraduate studying Computer Science and Engineering at MIT. I'm currently exploring the vast awesomeness of computer science and engineering and trying to find what vibes with me best!
+Hello! I'm an undergraduate studying Computer Science and Engineering at MIT. I'm interested in developing performant systems!
 
 This website's very much a work-in-progress, but here are some things to know about me!
 
 ???+ note "My Developer Environment"
 
-    **Text Editor**: Right now, my primary text editor is Vim. (I've dabbled in NeoVim but haven't yet switched over.) I have a pretty minimalist setup but have just about everything I need!
+    **Text Editor**: Right now, my primary text editor is Vim. Been exploring Emacs, maybe I'll switch over... 
 
-    **Operating System**: The operating systems I use most are Ubuntu and MacOS. Some other operating systems I occassionally use are Kali and Mint. (I'm also taking an OS class right now and working on implementing aspects of xv6!)  
+    **Operating System**: My primary operating system is Ubuntu! 
 
 ???+ note "My Stack"
 
-    **Primary Programming Language**: I've found myself using a lot of Python recently for all the machine learning and data science work I've been doing. I've also been pretty interested in more low-level work and have consequently been finding myself using a lot of C and C++. 
+    **Primary Programming Language**: I primarily work in C, C++, and Python. Recently, I've been using a lot of Rust.
 
     **Data Science Stack**: I tend to use a lot of Python, R, and occassionally Julia and MATLAB. I use a ton of PyTorch and ocassionally Tensorflow.
 
