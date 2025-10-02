@@ -1,7 +1,10 @@
-# Hi! I'm Shreya Chaudhary
+# About Shreya Chaudhary
 
-!!! warning "This website is currently under development!"
-    Expect for some major changes to occur within the new few hours and days!
+```
+This website is currently under development!
+
+Expect for some major changes to occur within the new few hours and days!
+```
 
 > **I am currently in the job market, seeking full-time positions in software engineering and algorithms engineering. If you think I could be a good fit, please [reach out](#contact)!**
 

@@ -1,9 +1,12 @@
 # Machine Learning!
 
-!!! warning "This page is currently under development!"
-    Expect for some major changes to occur within the new few hours and days!
+```
+This page is currently under development!
 
-I've been working on ML and AI since 2018 and programmed my first neural network from scratch in 8th grade! I have a number of research and industry experiences in AI/ML. I'm specifically very interested in **efficient ML** and looking at low-level software and hardware optimizations.
+Expect for some major changes to occur within the new few hours and days!
+```
+
+I've been working on AI and ML since 2018 and programmed my first neural network from scratch in middle school! I have a number of research and industry experiences in AI/ML. I'm specifically very interested in **efficient ML** and looking at low-level software and hardware optimizations.
 
 ## Experiences
 
@@ -25,6 +28,8 @@ I've been working on ML and AI since 2018 and programmed my first neural network
     My primary projects included building a performant search combining RAG and query search. I worked closely with building agentic AI frameworks! 
     
     From this experience, I learned how to **ship accurate and performant AI applications**!
+
+    ![AGI House](https://app.agihouse.org/assets/TheHouse-DEGkVbqR.png)
 
 ???+ note "Multimodal AI Lab (2024)"
     
@@ -49,7 +54,7 @@ I've been working on ML and AI since 2018 and programmed my first neural network
     | [private-lm-interactions](https://github.com/01110011011101010110010001101111/private-lm-application-interactions) | proof-of-concept post-quantum secure language model interactions!                             |
 
 
-
 ???+ note "OrderBot"
     For 6.421, I built a robot that could prepare foods from a human order given a list of random ingredients from a known set of ingredients. 
 
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/zOvT7VnuZ2k" frameborder="0" allowfullscreen></iframe>

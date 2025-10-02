@@ -22,12 +22,12 @@ There are a ton of things I'm interested in and I'm still exploring! Unfortunate
 ???+ note "A Suite of Differential Privacy Algorithms"
     During IAP 2023, I helped develop a suite of differential privacy algorithms specifically for energy-related use cases. I used the Laplace Mechanism to add sufficient noise to both continuous and discrete data. Here's a gif of the algorithm in action, generating a synthetic dataset on some arbitrary distribution I created. You'll notice that at the beginning, the data is completely different from the original dataset; however, over time, it converges to roughly the ideal dataset with a certain amount of noise.
 
-    ![differential privacy](dp.gif)
+    ![differential privacy](imgs/dp.gif)
 
 ???+ note "Modelling 1000+ Satellites with GMAT"
     Over the summer, I got to learn how to conduct orbit modelling and wrote a Python program to generate a script to feed into NASA's GMAT to simulate over 1,000 satellites in low-Earth orbit (LEO). This is simulating a Walker Constellation.
     
-    ![1k+ satellites in GMAT](megaconstellation.png)
+    ![1k+ satellites in GMAT](imgs/megaconstellation.png)
  
 ???+ note "OrderBot"
     For 6.421, I built a robot that could prepare foods from a human order given a list of random ingredients from a known set of ingredients. 
@@ -42,24 +42,24 @@ There are a ton of things I'm interested in and I'm still exploring! Unfortunate
 ???+ note "TigerGraph-CosmoGraph Plugin"
     I created the first plugin for the GPU-accelerated graph visualizer Cosmograph, allowing it to easily port in TigerGraph. You can check out the integration [here](https://github.com/cosmograph-org/cosmos-integrations/tree/main/packages/cosmos-tigergraph).
 
-    ![docs_img](cosmos.png)
+    ![docs_img](imgs/cosmos.png)
 
 ???+ note "TigerGraph.js"
     I developed a Node.js connector to ease the process for full-stack developers to use TigerGraph. (This project also managed to win 3rd place overall at the Graphathon challenge!) 
 
-    ![tgjs](tgjs.png)
+    ![tgjs](imgs/tgjs.png)
 
 ???+ note "TigerGo"
     When I began learning Golang, I created a TigerGraph wrapper in the language which I then used to create CLIs with Cobra and experimented with Golang's full-stack options. Check it out!
 
-    ![tigergraph go](tgo.png)
+    ![tigergraph go](imgs/tgo.png)
 
 ### Fun Generative Projects
 
 ???+ note "A DCGAN Birthday Card"
     For a friend's birthday, I used Selenium to scrape a ton of birthday card images and trained a [Deep Convolutional Generative Adversial Network](https://www.tensorflow.org/tutorials/generative/dcgan) to make a birthday card. The results weren't bad given the noise—check it out! (The input images are on the left and the generated images are on the right.)
 
-    ![birthday card comparison](bc_imgs.png)
+    ![birthday card comparison](imgs/bc_imgs.png)
  
 ???+ note "Using Quantum Procedural Generation on Squirrels"
     For our final project for introduction to quantum computing over IAP, my project partners and I used quantum procedural generation on squirrels. Check out this [blog](https://medium.com/mit-6-s089-intro-to-quantum-computing/quantum-image-manipulation-2c8e7ea6a64e) outlining what we did!

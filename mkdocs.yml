@@ -1,12 +1,35 @@
 site_name: Shreya Chaudhary
+site_url: https://reyccodes.github.io/portfolio/
 theme:
-  name: material
+  name: terminal
   icon:
     admonition:
       warning: material/alert
   palette: 
-    scheme: slate
+    scheme: default
+  features:
+    - navigation.top
+    - navigation.footer
+    - navigation.indexes
+    - navigation.tabs
+    - navigation.sections
+
+plugins:
+  - search:
+      separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+
 markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+
+nav:
+  - Home:
+      - Home: index.md
+      - About Me: about.md
+  - AI/ML: ml.md
+  - Systems and Performance: perf.md
+  - Robotics: robotics.md
+  - Archive: 
+      - Projects: projects.md
+      - Class Projects: class_projects.md
