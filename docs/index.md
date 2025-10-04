@@ -165,6 +165,7 @@ If you'd like to reach out about anything at all, feel free to email me at `gene
 
 <script>
     let currentSlide = 0;
+    const slideInterval = 3000; // Change to desired interval in milliseconds
 
     function moveSlide(direction) {
         const items = document.querySelectorAll('.carousel-item');
@@ -179,7 +180,10 @@ If you'd like to reach out about anything at all, feel free to email me at `gene
         const newTransform = -currentSlide * 100; // Calculate the new transform value
         document.querySelector('.carousel-inner').style.transform = `translateX(${newTransform}%)`;
     }
+
+    // Automatically move to the next slide every slideInterval milliseconds
+    setInterval(() => {
+        moveSlide(1); // Move to next slide
+    }, slideInterval);
 </script>
-
-
 
