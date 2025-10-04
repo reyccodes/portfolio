@@ -6,7 +6,7 @@ This page is currently under development!
 Expect for some major changes to occur within the new few hours and days!
 ```
 
-Robotics is a super fascinating field to me, both for the algorithm rigor and the awesomeness of seeing your code work on a robot! Below are some neat projects I've gotten to work on!
+Robotics is a super fascinating field to me, both for the algorithmic rigor and the awesomeness of seeing your code work on hardware! Below are some neat projects I've gotten to work on!
 
 ## Experiences
 
@@ -21,6 +21,9 @@ Robotics is a super fascinating field to me, both for the algorithm rigor and th
 ???+ note "Haystack Observatory"
 
     I worked on modelling megaconstellations with GMAT.
+
+    ![Haystack](https://www.haystack.mit.edu/wp-content/uploads/2025/01/home_aerial-radome-aspect-ratio-825-550-840x560-c-default.jpg)
+
 
 ## Projects
 
