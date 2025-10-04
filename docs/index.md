@@ -160,6 +160,7 @@ If you'd like to reach out about anything at all, feel free to email me at `gene
 <script>
     let currentSlide = 0;
     const slideInterval = 3000; // Change to desired interval in milliseconds
+    let intervalId;
 
     function moveSlide(direction) {
         const items = document.querySelectorAll('.carousel-item');
@@ -176,8 +177,18 @@ If you'd like to reach out about anything at all, feel free to email me at `gene
     }
 
     // Automatically move to the next slide every slideInterval milliseconds
-    setInterval(() => {
-        moveSlide(1); // Move to next slide
-    }, slideInterval);
+    function startAutoSlide() {
+        intervalId = setInterval(() => {
+            moveSlide(1); // Move to next slide
+        }, slideInterval);
+    }
+
+    // Event listener to reset the timer
+    document.querySelector('.carousel-inner').addEventListener('click', () => {
+        clearInterval(intervalId); // Clear existing interval
+        startAutoSlide(); // Restart automatic sliding
+    });
+
+    startAutoSlide(); // Start automatic sliding when the script loads
 </script>
 
