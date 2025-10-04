@@ -30,6 +30,10 @@ nav:
   - AI/ML: ml.md
   - Systems and Performance: perf.md
   - Robotics: robotics.md
+  - C/C++: c.md
   - Archive: 
       - Projects: projects.md
       - Class Projects: class_projects.md
+
+extra_css:
+  - styles.css
