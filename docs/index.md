@@ -66,12 +66,6 @@ If you'd like to reach out about anything at all, feel free to email me at `gene
         </div>
         <div class="carousel-item">
             <a href="projects">
-                <img src="imgs/tgjs.png" alt="TigerGraph.js" title="TigerGraph Node.js library">
-                <div class="overlay">TigerGraph Node.js library</div>
-            </a>
-        </div>
-        <div class="carousel-item">
-            <a href="projects">
                 <img src="imgs/tesla_coil.jpeg" alt="Tesla Coil" title="A sizeable tesla coil created in Radio Society">
                 <div class="overlay">A sizeable tesla coil created in Radio Society</div>
             </a>
